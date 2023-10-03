@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918735236893",
+    "project_id": "notificationashrafit",
+    "storage_bucket": "notificationashrafit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918735236893:android:39873a8743eacea9413bf4",
+        "android_client_info": {
+          "package_name": "com.sahbd.eduapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918735236893-j7jnfq8lfmha7he4kv8imidgqbcms3dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Ht6YYvvm8W-HpYBX9ERQswpw2fYbnIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918735236893-j7jnfq8lfmha7he4kv8imidgqbcms3dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
